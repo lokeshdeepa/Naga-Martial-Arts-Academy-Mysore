@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Naga Martial Arts Academy(R.) Mysore</title>
+    <link href="css/index.css"type="Stylesheet">
+
+
+    <link rel="icon" type="image/x-icon" href="/img/Logo.jpg">
+    <style>
+        * {box-sizing: border-box}
+        body {font-family: Verdana, sans-serif; margin:0}
+        .mySlides {display: none}
+        img {vertical-align: middle;}
+
+
+
+        .title{
+            color:white;
+            width: 100%;
+            text-align: center;
+            background-image: url("img/titele background 3.jpg");
+            background-repeat:no-repeat;
+            background-size:cover;
+            height: fit-content;
+
+
+        }
+
+
+        * {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+            box-sizing: border-box;
+        }
+
+        nav {
+            text-align: center;
+            width: 100%;
+        }
+        .menu {
+            display: inline-block;
+            width:100%;
+            background-color:black;
+        }
+
+        .menu>li {
+            float: left;
+            color: white;
+            width: 33%;
+            height: 50px;
+            line-height: 40px;
+            background: rgba(0, 0, 0, 0.7);
+            cursor: pointer;
+            font-size: 25px;
+            padding:6px;
+        }
+        .menu li:hover{
+            background: mediumseagreen;
+            border-radius: 16px;
+            height: 50px;
+        }
+        .sub-menu {
+            transform: scale(0);
+            transform-origin: top center;
+            transition: all 300ms ease-in-out;
+        }
+        .sub-menu li {
+            font-size: 14px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 8px 0;
+            color: white;
+            border-bottom: 1px solid rgb(17, 17, 17);
+            transform: scale(0);
+            transform-origin: top center;
+            transition: all 300ms ease-in-out;
+        }
+        .sub-menu li:last-child {
+            border-bottom: 0;
+        }
+        .sub-menu li:hover {
+            background:mediumseagreen;
+            border-radius: unset;
+        }
+        .menu>li:hover .sub-menu li {
+            transform: scale(1);
+        }
+        .menu>li:hover .sub-menu {
+            transform: scale(1);
+        }
+
+
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+        .slideshow1{
+            width: 100%;
+            height: 500px;
+            position: relative;
+            animation: mymove 20s infinite;
+            background-repeat: no-repeat;
+            background-size: contain;
+            alignment:right;
+
+        }.artical{
+             font-family: 'Caveat', cursive;
+             font-size:80px;
+         }
+
+        @keyframes mymove {
+            0%   {background-image:url("papers/14.jpg");}
+            15%  {background-image:url("papers/20.jpg");}
+            30%  {background-image:url("papers/20.jpg");}
+            45% {background-image:url("papers/13.jpg");}
+            60%   {background-image:url("papers/4TFWb5Kt0Xy5dEJQ2aLa8a4b.jpg");}
+            75%   {background-image:url("papers/IMG_20210313_100700.jpg");}
+            95%   {background-image:url("papers/IMG-20210404-WA0001.jpg");}
+            100%   {background-image:url("papers/IMG-20210223-WA0026.jpg");}
+
+        }
+        .background{
+
+
+        }
+
+
+    </style>
+
+
+</head>
+<body>
+<table style="background-color:black" width="100%"height="20px" ><tr align="left"><td style="color: black">
+    hi</td></tr>
+
+</table>
+<div class="slideshow">
+<marquee direction="right" scrollamount="10">
+<table style="background-color:white" width="100%"height="50px">
+    <div>
+        <td><img src="img/WKF%20logo.jpeg " width="120px" height="120px" ></td>
+        <td><img src="img/OLympics%20logo.png"width="120px" height="100px"></td>
+        <td><img src="img/Tekisu.png"width="120px"  height="125px"></td>
+        <td><img src="img/Logo.jpg" width="120px" height="135px"></td>
+        <td><img src="img/AKSK%20logo.jpeg"  width="120px" height="125px"></td>
+        <td><img src="img/KIO%20logo.jpeg"width="120px" height="160px"></td>
+    </div>
+
+
+
+</table>
+</marquee>
+</div>
+<table width="100%">
+    <tr style="height:400px">
+        <td colspan="7" class="title" ><h1 style="height: 75px">Naga Martial Arts Academy(R),<br style="align-items: center">Mysore</h1>
+            <br>
+        <h2 style="color: white" >ナガ武道学院マイソール</h2><h3 style="color:lightgray">Affiliated with:</h3><h6 style="color:#db0c09" align="center">Karate Association of India (KAI)<br>
+                Akila Karnataka Sports Karate Association<br>
+                GC AISKA, Affiliated with all India Karate-Do-Federation,<br> Recognised by Govt.
+                Of India & Indian Olympic Association<br> Affiliated with Asian Karate-Do-Federation & World Karate Federation recognised by DCA & IOC</h6></td>
+    </tr>
+
+</table>
+
+
+</div>
+    <nav>
+        <ul class="menu">
+            <li onclick="window.location.href='index.html'">
+                Home
+            </li>
+            <li>
+                Achievements
+                <ul class="sub-menu">
+                    <li onclick="window.location.href='Demonstration.html'">Demonstration</li>
+                    <li onclick="window.location.href='belt awarding.html'">Belt Awarding</li>
+                    <li onclick="window.location.href='Tournaments.html'">Tournaments</li>
+                    <li onclick="window.location.href='Social welfare.html'">Social Welfare</li>
+                </ul>
+            </li>
+            <li onclick="window.location.href='About.html'">
+                About
+            </li>
+        </ul>
+    </nav>
+</div>
+<br>
+<br>
+<div class="background">
+    <br>
+
+<div align="center">
+    <img src="img/tournmanent%20invitation.jpg" width="40%" height="600px">
+</div>
+<br>
+    <br>
+    <div class="slideshow1"><div><section><h1 align="right" class="artical" style="color: black"><br style="alignment: right">Articles in <br> Newspapers</h1></section></div></div>
+</div>
+<br>
+<br>
+
+<table style="background-color:black;width:100%;height: 100px">
+    <tr>
+        <td align="right" >
+            <a href="http://www.youtube.com/@nagamartialartsacademy4084">
+            <img src="img/youtube-logo%20with%20black%20background.webp" width="200px"height="100px" >
+        </a>
+    </td>
+    </tr>
+    <tr>
+        <td style="color: white;height:25px;float:right;padding:5px;margin:10px" >Contact No:<a href="###">9880361209</a></td>
+    </tr>
+</table>
+</body>
+</html>

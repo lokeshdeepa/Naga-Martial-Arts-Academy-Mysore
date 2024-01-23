@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5509f8-62e9-4e14-a8f1-75f26e29250e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YIflFrjoMbLK9f38y0V12HEh1M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/LOKESH DEEPA/WebstormProjects/Naga Martial Arts Academy(R.) Mysore/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LOKESH DEEPA\WebstormProjects\Naga Martial Arts Academy(R.) Mysore\img" />
+      <recent name="C:\Users\LOKESH DEEPA\WebstormProjects\Naga Martial Arts Academy(R.) Mysore" />
+      <recent name="C:\Users\LOKESH DEEPA\WebstormProjects\karate\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LOKESH DEEPA\WebstormProjects\Naga Martial Arts Academy(R.) Mysore" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5509f8-62e9-4e14-a8f1-75f26e29250e" name="Changes" comment="" />
+      <created>1700218163952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700218163952</updated>
+      <workItem from="1700218165161" duration="12998000" />
+      <workItem from="1700548204091" duration="8799000" />
+      <workItem from="1700651454374" duration="1708000" />
+      <workItem from="1700708392459" duration="4612000" />
+      <workItem from="1700719367831" duration="308000" />
+      <workItem from="1700911352260" duration="81000" />
+      <workItem from="1700911456353" duration="168000" />
+      <workItem from="1701178519234" duration="3793000" />
+      <workItem from="1701333703856" duration="3560000" />
+      <workItem from="1701410866763" duration="2395000" />
+      <workItem from="1701776647029" duration="875000" />
+      <workItem from="1701865701825" duration="562000" />
+      <workItem from="1701951155085" duration="725000" />
+      <workItem from="1702035915741" duration="1950000" />
+      <workItem from="1702106726654" duration="5202000" />
+      <workItem from="1702216338640" duration="13000" />
+      <workItem from="1702357559856" duration="610000" />
+      <workItem from="1702381276013" duration="524000" />
+      <workItem from="1702813576252" duration="1190000" />
+      <workItem from="1702904564032" duration="1113000" />
+      <workItem from="1703161375704" duration="15323000" />
+      <workItem from="1703415399768" duration="10430000" />
+      <workItem from="1703678027966" duration="402000" />
+      <workItem from="1703815672874" duration="12000" />
+      <workItem from="1703854048642" duration="2821000" />
+      <workItem from="1704511352413" duration="1201000" />
+      <workItem from="1704725802411" duration="3703000" />
+      <workItem from="1704802268047" duration="74000" />
+      <workItem from="1704802551123" duration="599000" />
+      <workItem from="1705408723322" duration="1351000" />
+      <workItem from="1705578099990" duration="175000" />
+      <workItem from="1705579884438" duration="5000" />
+      <workItem from="1705582582890" duration="783000" />
+      <workItem from="1705587582466" duration="3410000" />
+      <workItem from="1705603991298" duration="63000" />
+      <workItem from="1705639792200" duration="604000" />
+      <workItem from="1705765996004" duration="3610000" />
+      <workItem from="1706012149327" duration="6306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
